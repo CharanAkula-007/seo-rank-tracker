@@ -408,26 +408,16 @@ We welcome contributions! Please follow these steps:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines.
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE.md) file for details.
-
 ---
 
 ## 👨‍💻 Author
 
-Your Name / Organization
+AKULA CHARAN
 
 ---
 
 ## 📞 Support
 
-For support, email support@example.com or open an issue on GitHub.
+For support, email charanakula63@gmail.com or open an issue on GitHub.
 
----
 
-**Made with ❤️ by the SEO Rank Tracker Team**
